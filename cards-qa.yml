@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  configServer: "QA"
+  message: "This is Card section of lapataganj bank"
+  contactDetails:
+    name: "Mukandilal Sukhandilal Shukla"
+    email: "mukandilalsukhunadilalshukla@gmail.com"
+  onCallSupport:
+    -106106106106
+    -101010100101
