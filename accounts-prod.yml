@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  configServer: "production"
+  configServer: "prod"
   message: "This is account section of lapataganj bank"
   contactDetails:
     name: "Mukandilal Sukhandilal Shukla"
@@ -11,4 +11,5 @@ accounts:
     -106106106106
 
     -101010100101
+
 
