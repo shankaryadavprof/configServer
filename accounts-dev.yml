@@ -6,8 +6,9 @@ accounts:
   message: "This is account section of lapataganj bank"
   contactDetails:
     name: "Mukandilal Sukhandilal Shukla"
-    email: "(cipher)b2a20b8a1d2be920653fe6c983a0efb844110190ee28f8a93d5e5535c23cd07bc032fb9c4d9f1fe49ada82a39eeac746"
+    email: "b2a20b8a1d2be920653fe6c983a0efb844110190ee28f8a93d5e5535c23cd07bc032fb9c4d9f1fe49ada82a39eeac746"
   onCallSupport:
     -106106106106
 
     -101010100101
+
