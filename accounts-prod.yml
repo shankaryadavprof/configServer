@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  configServer: "Now I am become Death, the destroyer of worlds."
+  configServer: "Now I am become Death, the destroyer of worlds/Noida."
   message: "This is account section of lapataganj bank kill hjfhjctydcuycfy"
   contactDetails:
     name: "Mukandilal Sukhandilal Shukla"
@@ -11,6 +11,7 @@ accounts:
     -106106106106
 
     -101010100101
+
 
 
 
