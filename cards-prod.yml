@@ -3,7 +3,7 @@ build:
 
 cards:
   configServer: "Production "
-  message: "This is Card section of lapataganj bank also the production version"
+  message: "This is Card section of lapataganj bank "
   contactDetails:
     name: "Mukandilal Sukhandilal Shukla"
     email: "mukandilalsukhunadilalshukla@gmail.com"
@@ -11,6 +11,7 @@ cards:
     -106106106106
 
     -101010100101
+
 
 
 
