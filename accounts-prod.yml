@@ -3,7 +3,7 @@ build:
 
 accounts:
   configServer: "prod"
-  message: "This is account section of lapataganj bank "
+  message: "This is account section of lapataganj bank kill hjfhjctydcuycfy"
   contactDetails:
     name: "Mukandilal Sukhandilal Shukla"
     email: "mukandilalsukhunadilalshukla@gmail.com"
@@ -11,6 +11,7 @@ accounts:
     -106106106106
 
     -101010100101
+
 
 
 
