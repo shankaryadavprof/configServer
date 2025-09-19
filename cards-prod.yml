@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  configServer: "Production sdvdrfhbftgjtyj"
+  configServer: "Production "
   message: "This is Card section of lapataganj bank also the production version"
   contactDetails:
     name: "Mukandilal Sukhandilal Shukla"
@@ -11,5 +11,6 @@ cards:
     -106106106106
 
     -101010100101
+
 
 
